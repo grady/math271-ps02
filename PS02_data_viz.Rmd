@@ -18,7 +18,7 @@ library(nycflights13)
 ```
 
 
-In this problem set we will use the `ggplot2` package to generate graphics. The "The Grammar of Graphics," is the theoretical basis for the `ggplot2` package. Much like how we construct sentences in any language by using a linguistic grammar (nouns, verbs, etc.), the grammar of graphics allows us to specify the components of a statistical graphic.
+In this problem set we will use the `ggplot2` package to generate graphics. The "The Grammar of Graphics," is the theoretical basis for the `ggplot2` package. Much like how we construct sentences in any language by using a linguistic grammar (nouns, verbs, etc.), the grammar of graphics allows us to specify the components of a statistical graphic. This material is covered in the textbook in [Chapter 2: Data Visualization](https://moderndive.com/2-viz.html).
 
 In short, the grammar tells us that:
 
@@ -350,8 +350,7 @@ This table is a great resource for thinking about how to visualize data.
 
 ![](figures/graph.table.png)
 
-Table 3.5 from Modern Dive 
-http://moderndive.netlify.com/index.html
+[Table 2.4 from Modern Dive](https://moderndive.com/2-viz.html#summary-table)
 
 
 

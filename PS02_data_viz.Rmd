@@ -357,8 +357,6 @@ http://moderndive.netlify.com/index.html
 
 # Turning in your work
 
-Submit your problem set **html** file on Moodle. This involves downloading the html file **from the R Studio Server to your personal computer**. The steps to do this are as follows: 
-
 - Make sure you **knit a final copy with all your changes** and work
 - Look at your final html file to make sure it contains the work you expect, and is formatted properly (e.g. Exercise headers, each with answers)
 - Open the tests.R file and run the tests. Make sure everything is passing. See PS01 for more detailed instructions on this.

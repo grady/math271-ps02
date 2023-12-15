@@ -37,7 +37,7 @@ See the Problem Set 01 README to review the detailed instructions for the setup 
 
 - Find the Github assignment link on Laulima and activate your repository clone.
 - Import your Github clone into RStudio.
-- Create a new markdown document (File > New File > R Markdown) save it with the filename `PS02_solution.Rmd`.
+- Create a new markdown document (File > New File > R Markdown) save it with the filename `solution.Rmd`.
 
 Once you have opened the document:
 
@@ -359,7 +359,7 @@ This table is a great resource for thinking about how to visualize data.
 - Make sure you **knit a final copy with all your changes** and work
 - Look at your final html file to make sure it contains the work you expect, and is formatted properly (e.g. Exercise headers, each with answers)
 - Open the tests.R file and run the tests. Make sure everything is passing. See PS01 for more detailed instructions on this.
-- Commit the `PS02_solutions.Rmd` and `PS02_solutions.html` files to git, and push the updates to Github.
+- Commit the `solutions.Rmd` file to git, and push the updates to Github.
 - Review the autograding results in the Github Actions tab.
 
 ----
